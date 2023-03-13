@@ -37,5 +37,5 @@
           webproxy: 
           external: true
 
-![image](https://user-images.githubusercontent.com/119155285/224614209-293504a5-7032-4781-a591-7d09c21e0836.png)
+![image](https://user-images.githubusercontent.com/119155285/224614386-ccac12dc-1236-46aa-8d3a-a466503fc676.png)
 
